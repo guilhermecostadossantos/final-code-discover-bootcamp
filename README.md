@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project has been developed with the following technologies:
 
@@ -37,7 +37,7 @@ The dev.finances is a financial control application where is possible to registe
 
 You can view the project layout through [this link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). A [Figma](https://figma.com) account is required to access.
 
-## :memo: Licença
+## :memo: License
 
 This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
