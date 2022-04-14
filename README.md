@@ -21,26 +21,26 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project has been developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+The dev.finances is a financial control application where is possible to register and delete transactions and see the cash inflow and outflow 💰
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [this link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). A [Figma](https://figma.com) account is required to access.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made through Rocketseat bootcamp.
